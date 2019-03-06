@@ -1,0 +1,7 @@
+E:\yedek\Deneme\CyclicRotation\CyclicRotation\bin\Debug\CyclicRotation.exe.config
+E:\yedek\Deneme\CyclicRotation\CyclicRotation\bin\Debug\CyclicRotation.exe
+E:\yedek\Deneme\CyclicRotation\CyclicRotation\bin\Debug\CyclicRotation.pdb
+E:\yedek\Deneme\CyclicRotation\CyclicRotation\obj\Debug\CyclicRotation.csprojAssemblyReference.cache
+E:\yedek\Deneme\CyclicRotation\CyclicRotation\obj\Debug\CyclicRotation.csproj.CoreCompileInputs.cache
+E:\yedek\Deneme\CyclicRotation\CyclicRotation\obj\Debug\CyclicRotation.exe
+E:\yedek\Deneme\CyclicRotation\CyclicRotation\obj\Debug\CyclicRotation.pdb
